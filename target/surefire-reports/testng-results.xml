@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TheBigSmoke" duration-ms="25482" started-at="2020-06-02T23:37:35 EEST" finished-at="2020-06-02T23:38:01 EEST">
+    <groups>
+    </groups>
+    <test name="SmokeSmoke Test" duration-ms="25482" started-at="2020-06-02T23:37:35 EEST" finished-at="2020-06-02T23:38:01 EEST">
+      <class name="smokeTestAsiye.PositiveTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:smokeTestAsiye.PositiveTest@4b4523f8]" name="setUp" is-config="true" duration-ms="7230" started-at="2020-06-02T23:37:35 EEST" finished-at="2020-06-02T23:37:43 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="positiveLoginTest1()[pri:0, instance:smokeTestAsiye.PositiveTest@4b4523f8]" name="positiveLoginTest1" duration-ms="18196" started-at="2020-06-02T23:37:43 EEST" finished-at="2020-06-02T23:38:01 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveLoginTest1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:smokeTestAsiye.PositiveTest@4b4523f8]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-06-02T23:38:01 EEST" finished-at="2020-06-02T23:38:01 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- smokeTestAsiye.PositiveTest -->
+    </test> <!-- SmokeSmoke Test -->
+  </suite> <!-- TheBigSmoke -->
+</testng-results>
